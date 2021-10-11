@@ -1,0 +1,38 @@
+	
+	header{ 
+		background-color: #3a3a3a ; 
+		padding: 1rem; 
+		color: #ffffff;
+
+		}
+			
+	header a{
+		color: #ffffff;
+	}
+		
+
+
+
+	body {  
+		font-family: proxima-nova, sans-serif;
+			font-weight: 400;
+			font-size: 1rem;
+			font-style: normal; 
+		}  
+	
+	
+			
+	footer { 
+		background-color: #3a3a3a; 
+		padding: 1rem;
+		color: #ffffff;
+	}
+	footer a{
+		color: #ffffff;
+	}
+			
+			  
+ 
+	
+
+
